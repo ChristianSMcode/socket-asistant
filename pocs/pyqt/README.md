@@ -16,3 +16,6 @@ changes (graphical changes since pyqt is crossplatform)
 References:
 https://www.pythonguis.com/installation/install-qt-designer-standalone/
 https://www.youtube.com/watch?v=Vde5SH8e1OQ&list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj
+https://doc.qt.io/qt-6/qplaintextedit.html#appendPlainText
+
+https://www.udemy.com/course/python-gui-development-with-pyqt6/
