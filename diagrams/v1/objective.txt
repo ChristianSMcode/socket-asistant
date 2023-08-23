@@ -1,0 +1,4 @@
+In this version of the system the objective is to have just one client wich continuosly sends audio data as a stream to
+a server using sockets then this server transcribes this chunks of audio and send the result back to the client in real time.
+
+Note: the client could be written in any languange and use or not use an interactive layer.
